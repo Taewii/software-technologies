@@ -3,9 +3,10 @@ function solve(arr) {
     let students = [];
 
     for (let i = 0; i < arr.length; i++) {
-        let name = arr[i].split(' -> ')[0];
-        let age = arr[i].split(' -> ')[1];
-        let grade = arr[i].split(' -> ')[2];
+        let tokens = arr[i].split(' -> ');
+        let name = tokens[0];
+        let age = tokens[1];
+        let grade = tokens[2];
         
         let student = {name:name, age:age, grade:grade};
         students.push(student);
@@ -17,6 +18,7 @@ function solve(arr) {
         console.log(`Grade: ${students[j].grade}`)
     }
 }
+
 
 // solve([
 //     'Pesho -> 13 -> 6.00',
