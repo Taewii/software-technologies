@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sumator</title>
+</head>
+<body>
+	<form>
+		<div>First Number:</div>
+		<div><input type="number" id="num1"></div>
+		<div>Second Number:</div>
+		<div><input type="number" id="num2"></div>
+		<div><input type="button" value="Calculate Sum" onclick="sumNumbers()"></div>
+		<div>Result: <span id="result"></span></div>
+	</form>
+
+	<script>
+		function sumNumbers() {
+			let num1 = Number(document.getElementById('num1').value);
+			let num2 = Number(document.getElementById('num2').value);
+			document.getElementById('result').textContent = num1 + num2;
+		}
+	</script>
+</body>
+</html>
