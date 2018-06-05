@@ -1,0 +1,11 @@
+C:\Users\eLaZizY\Desktop\skeletons\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.deps.json
+C:\Users\eLaZizY\Desktop\skeletons\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.json
+C:\Users\eLaZizY\Desktop\skeletons\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.dev.json
+C:\Users\eLaZizY\Desktop\skeletons\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.dll
+C:\Users\eLaZizY\Desktop\skeletons\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.pdb
+C:\Users\eLaZizY\Desktop\skeletons\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csprojAssemblyReference.cache
+C:\Users\eLaZizY\Desktop\skeletons\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csproj.CoreCompileInputs.cache
+C:\Users\eLaZizY\Desktop\skeletons\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfoInputs.cache
+C:\Users\eLaZizY\Desktop\skeletons\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfo.cs
+C:\Users\eLaZizY\Desktop\skeletons\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.dll
+C:\Users\eLaZizY\Desktop\skeletons\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.pdb

@@ -1,0 +1,12 @@
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\bin\Debug\netcoreapp2.0\SoftUniBlogCSharp.deps.json
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\bin\Debug\netcoreapp2.0\SoftUniBlogCSharp.runtimeconfig.json
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\bin\Debug\netcoreapp2.0\SoftUniBlogCSharp.runtimeconfig.dev.json
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\bin\Debug\netcoreapp2.0\SoftUniBlogCSharp.dll
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\obj\Debug\netcoreapp2.0\SoftUniBlogCSharp.csprojAssemblyReference.cache
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\obj\Debug\netcoreapp2.0\SoftUniBlogCSharp.csproj.CoreCompileInputs.cache
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\obj\Debug\netcoreapp2.0\SoftUniBlogCSharp.AssemblyInfoInputs.cache
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\obj\Debug\netcoreapp2.0\SoftUniBlogCSharp.AssemblyInfo.cs
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\bin\Debug\netcoreapp2.0\SoftUniBlogCSharp.pdb
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\obj\Debug\netcoreapp2.0\SoftUniBlogCSharp.dll
+C:\Users\eLaZizY\Desktop\New folder\SoftUniBlogCSharp\SoftUniBlogCSharp\obj\Debug\netcoreapp2.0\SoftUniBlogCSharp.pdb
